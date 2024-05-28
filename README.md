@@ -20,7 +20,7 @@ Certainly, here's a summary of each analysis conducted in this project, along wi
 - Use Frequency Table (Bar Chart) or Pie chart to represent in percentage
    
 ### Analysis 2: Total units of toys sold by each store (Q.2)
-Query Description: This query retrieves store orders where the total store product amount is higher than the average total amount of all other product store orders.
+**Query Description**: This query retrieves store orders where the total store product amount is higher than the average total amount of all other product store orders.
 
 **Key Findings**:
 - Orders of Deck Of Cards in store 1 have above-average total sales.
@@ -30,7 +30,7 @@ Query Description: This query retrieves store orders where the total store produ
 - If need to present the data in percentage use Stack subdivide bar diagram
    
 ### Analysis 3: Quarterly revenue generated between all the stores (Q.3)
-Query Description: This analysis calculates the total Revenue and subtotal for each Stores per day.
+**Query Description**: This analysis calculates the total Revenue and subtotal for each Stores per day.
 
 **Key Findings**:
 - Data of Toy store has starting from 2017 Qtr 1 to 2018 Qtr3 
@@ -42,7 +42,7 @@ Query Description: This analysis calculates the total Revenue and subtotal for e
 - Using Line chart is prefer whenever the time or periods comes to discussion `
  
 ### Analysis 4: Give me a range of how much revenue can be generated in a day (Q.4)
-Query Description: This query categorizes orders as high, medium, or low based on predefined total amount ranges.
+**Query Description**: This query categorizes orders as high, medium, or low based on predefined total amount ranges.
 
 **Key Findings**:
 - On a day the range of amount can be expected is between Several orders fall into the "High" and "Medium" categories, indicating substantial sales.
@@ -54,7 +54,7 @@ Query Description: This query categorizes orders as high, medium, or low based o
 - You can also find Average Revenue per day 
  
 ### Analysis 5: Check five number summary of daily revenue (Q.5)
-Query Description: This analysis ranks sales based on the total number of orders they have processed 
+**Query Description**: This analysis ranks sales based on the total number of orders they have processed 
 
 **Key Findings**:
 - Found outliers in toy stores dataset using Box plot visualization
@@ -64,7 +64,7 @@ Query Description: This analysis ranks sales based on the total number of orders
 - Recognizing outlier performers by considering the outliers leads consider might active special offers might gone to boost sales.
  
 ### Analysis 6: Find the relationship between no. of units placed on a daily basis and the revenue generated (Q.6)
-Query Description: This query lists products units, date and revenue per day across all products.
+**Query Description**: This query lists products units, date and revenue per day across all products.
 
 **Key Findings**:
 - Products trends to move forward with dependence to each other in positive direction.
@@ -74,7 +74,7 @@ Query Description: This query lists products units, date and revenue per day acr
 - Identifying the business moves in positive direction can guide inventory and marketing efforts.
  
 ### Analysis 7: Identify highest selling products that generated maximum revenue (Q.7)
-Query Description: This analysis calculates the total quantity sold price for each product category.
+**Query Description**: This analysis calculates the total quantity sold price for each product category.
 
 **Key Findings**:
 - Provides a linkage between revenue, product, and cumulative revenue tracking.
